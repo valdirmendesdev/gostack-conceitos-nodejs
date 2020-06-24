@@ -7,7 +7,7 @@
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <a href="https://rocketseat.com.br">
+  <a href="https://valdirmendes.dev">
     <img alt="Made by Valdir Mendes" src="https://img.shields.io/badge/made%20by-Valdir%20Mendes-%2304D361">
   </a>
 
