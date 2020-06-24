@@ -46,7 +46,7 @@ A aplicação desenvolvida possui as seguintes rotas:
 
 ## :running: Rodando a aplicação
 
-Para executar a aplicação, clone o repositório desse projeto, entre na pasta do projeto e instale as dependências com o seguinte comando no terminal:
+Para executar a aplicação, clone este repositório, entre na pasta do projeto e instale as dependências com o seguinte comando no terminal:
 
 ```bash
 yarn
